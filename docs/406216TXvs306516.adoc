@@ -1,7 +1,6 @@
 = Product Comparison: Avcomm vs. N-Tron
 Avcomm Sales Team
 2026-01-15
-
 == Overview
 Replacing discontinued products is a critical step to ensure continuous and reliable production. A seamless, fast, and professionally managed migration path is a shared goal for both Avcomm and our customers.
 
@@ -9,7 +8,7 @@ This document provides a detailed comparison between Avcomm models (406FX2 and 2
 
 == Quick Comparison Table
 
-image::images/216_comparison.png[Avcomm vs. N-Tron Unmanage Ethernet Switch Comparison, width=2000]
+image::../images/216_comparison.png[Avcomm vs. N-Tron Unmanage Ethernet Switch Comparison, width=2000]
 
 
 [cols="3*", options="header"]

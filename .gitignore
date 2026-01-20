@@ -10,3 +10,4 @@ Thumbs.db
 # Build output (optional, depending on if you want to host them)
 # *.html
 # *.pdf
+*.docx
