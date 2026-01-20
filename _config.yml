@@ -1,0 +1,6 @@
+title: AVCOMM Product Docs
+description: Industrial communication and security product comparisons by AVCOMM
+baseurl: "" # GitHub Pages 默认
+theme: minima
+plugins:
+  - jekyll-feed

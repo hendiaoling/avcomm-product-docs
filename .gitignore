@@ -1,0 +1,12 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
+
+# Build output (optional, depending on if you want to host them)
+# *.html
+# *.pdf
